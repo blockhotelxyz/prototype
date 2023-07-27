@@ -25,3 +25,6 @@ The Hotel Bearer Tokens are unique NFT based bonds issued by the Hotel. The Hote
 
 ## Provisioning 
 To cater for sophisticated commercial arrangements that Hotels can sometimes be involved with, Hotels need to actively provision their Hotel Bearer Tokens to different marketplaces. This is so as to ensure that paper arrangements e.g. an existing arrangement with a commercial tour operator can be kept. In this instance the Hotel would issue an allocation of Hotel Bearer Tokens Directly to the commercial partner as payment is covered by the paper payment terms. 
+# Decentralized Commercial Roles 
+The Key decentralized commercial roles are described in the diagram below : 
+![enter image description here](https://github.com/blockhotelxyz/documentation/blob/main/diagrams/block%20hotel%20models-Page-5.drawio.png?raw=true)
