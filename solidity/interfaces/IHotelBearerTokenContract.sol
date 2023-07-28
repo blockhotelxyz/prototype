@@ -11,6 +11,7 @@ The IHotelBearerTokenContract represents the actual bearer tokens that may or ma
 */
 interface IHotelBearerTokenContract is IERC721 { 
 
+    // returns the acctual HotelBearerTokens attached to the given hotelBearerTokenIds
     function getHotelBearerTokens(uint256 [] memory _hotelBearerTokenIds) view external returns(HotelBearerToken [] memory _hotelBearerToken); 
 
 }
