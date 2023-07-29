@@ -28,8 +28,9 @@ interface IBlockHotelAllocation {
     // returns the bearer token contract from which this allocation is derived
     function getHotelBearerTokenContract() view external returns (address _bearerTokenContract);
 
+    // returns ids for all of the Hotel Bearer Tokens allocated to this contract 
+    function getAllAllocatedHotelBearerTokenIds() view external returns (uint256 [] memory _hotelBearerTokenIds);
+
     // returns the owner of this allocation 
     function getOwner() view external returns (address _owner);
-
-    
 }
